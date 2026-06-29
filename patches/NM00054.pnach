@@ -1,0 +1,7 @@
+gametitle=Taiko Drum Master 12 - Asian Edition
+
+[no taiwan check]
+description=patches out the game checks for the asian region signature so that the game runs regardless of the provided NVRAM
+author=Tovarichtch
+patch=1,EE,80134270,word,03E00008
+patch=1,EE,80134274,word,24020001
