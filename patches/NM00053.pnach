@@ -1,6 +1,6 @@
-gametitle=Taiko Drum Master 11 - Asian Edition
+gametitle=Taiko Drum Master 12 - Asian Edition Taiwan
 [Region check bypass]
 author=Tovarichtch
 description=Boots past the SYSTEM ERROR region check; no USB security key needed.
-patch=1,EE,8012EF20,word,03E00008
-patch=1,EE,8012EF24,word,24020001
+patch=1,EE,801341E0,word,03E00008
+patch=1,EE,801341E4,word,24020001
