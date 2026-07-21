@@ -13,5 +13,5 @@ Soul Calibur III Arcade Edition (works only with NM00031 SC31001-NA-DVD0-B)
 Super DragonBall Z
 
 
-***Note: Due to offset changes for both RRV and WMN, you need to choose the SPECIFIC pnach for your dongle revision. Putting them all in your cheats/patches folder will break those games.***
+***Note: Due to offset changes for both RRV and WMN, you need to choose the SPECIFIC pnach for your dongle revision. Putting them all in your cheats/patches folder and/or choosing the incorrect pnach will break those games.***
 
